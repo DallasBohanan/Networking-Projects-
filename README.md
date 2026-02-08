@@ -2,8 +2,8 @@
 Projects to help me develop networking skills and practice and implement what im learning. 
 
 
-project 1
-## Inter-LAN Routing Project (Packet Tracer)
+## PROJECT 1
+## Inter-LAN Routing Project (Packet Tracer) 
 
 ### Objective
 Build and troubleshoot a multi-LAN network using a single router and multiple switches.
